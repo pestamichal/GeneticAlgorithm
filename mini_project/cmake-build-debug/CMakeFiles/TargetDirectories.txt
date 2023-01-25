@@ -1,0 +1,3 @@
+C:/Users/pesta/Desktop/studia/sem_3/TEP/mini_project/cmake-build-debug/CMakeFiles/mini_project.dir
+C:/Users/pesta/Desktop/studia/sem_3/TEP/mini_project/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/pesta/Desktop/studia/sem_3/TEP/mini_project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
